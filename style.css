@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#password{
+    width: 800px;
+    height: 60px;
+    font-size: 40px;
+    padding: 10px;
+}
